@@ -1,0 +1,4 @@
+Exercice 2 Git
+
+Ceci est écrit avec Git aussi ! ! !
+

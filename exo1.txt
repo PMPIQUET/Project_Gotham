@@ -1,0 +1,4 @@
+Exercice 1 Git
+
+"Bonjour ceci est écrit avec git."
+

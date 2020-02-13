@@ -1,0 +1,3 @@
+Ceci est le premier cours de git 
+
+Ceci est le premier ajout via git 
